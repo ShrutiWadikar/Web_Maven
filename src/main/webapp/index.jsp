@@ -24,8 +24,6 @@
         <p>Explore the opportunities and experiences that await you at our college.</p>
     </section>
 
-    <footer>
-        <p>&copy; 2023 Our College. All rights reserved.</p>
-    </footer>
+  
 </body>
 </html>
